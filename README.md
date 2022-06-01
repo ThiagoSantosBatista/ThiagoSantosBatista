@@ -1,4 +1,4 @@
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Thiago Batista!</h1>
+# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Thiago Batista!</h1>
 <p align="left">
 
 - 🔥 Desenvolvedor Web com foco principal no Front-End.

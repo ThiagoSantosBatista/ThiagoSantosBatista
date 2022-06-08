@@ -12,7 +12,7 @@
 
 <p align="left" style="background:yellow">
 <a href="mailto: tsb.thiagobatista@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=blue" alt="gmail"/>
+  <img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail"/>
 </a>
  <a href="https://www.linkedin.com/in/thiago-santos-batista-6b6a1b232/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin"/>

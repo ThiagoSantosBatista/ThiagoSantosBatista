@@ -1,6 +1,6 @@
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, me chamo Thiago Batista!</h1>
-<p align="left">
-  Após o término do ensino médio em 2021 entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End. Desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
+<p align="left">   
+- Tenho 18 anos e estou em busca da primeira oportunidade profissional atuando como desenvolvedor Front-End. Após o término do ensino médio em 2021 entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End, possuo conhecimentos em HTML, CSS, GIT, GitHub e estou estudando atualmente JavaScript. Desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
 
 - 🔥 **Desenvolvedor Front-End**.
 
@@ -8,17 +8,16 @@
   
 - 👨‍💻 Cursando **Ensino Superior em Análise e Desenvolvimento de Sistemas**
   
- ## 🧑 &nbsp;Contato
-
-<p align="left" style="background:yellow">
-<a href="mailto: tsb.thiagobatista@gmail.com" target="_blank">
+<br>
+  
+**Contatos:** <a href="mailto: tsb.thiagobatista@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail"/>
 </a>
- <a href="https://www.linkedin.com/in/thiago-santos-batista-6b6a1b232/" target="_blank">
+ <a href="https://www.linkedin.com/in/thiago-santos-batista/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin"/>
 </a>
-</p>
-<br>
+
+<hr>
 
 ## ⚡ Tecnologias e Estatísticas
 

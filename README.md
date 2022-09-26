@@ -1,24 +1,29 @@
 <div align="center">
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, me chamo Thiago Batista!</h1>
+   <h1>
+     Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, me chamo Thiago Batista!
+   </h1>
 </div>
+ <p>
 Olá, meu nome é Thiago, tenho 18 anos e estou em busca da primeira oportunidade profissional atuando como desenvolvedor Front-End. Após o término do ensino médio em 2021, eu entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End. Desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
-
-<br>
-<br>
+</p>
 
 Possuo conhecimentos em:
-<img align="right" alt="GIF" height=200 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 
-- HTML,
-- CSS,
-- GIT,
-- GitHub,
-- Figma; 
+- **HTML**,
+- **CSS**,
+- **JavaScript**,
+- **SASS/SCSS**,
+- **GIT**,
+- **GitHub**,
+- **Figma**; 
 
-Estudando atualmente:
+<br>
 
-- SASS/SCSS,
-- JavaScript. 
+<div align="left">
+   <img alt="GIF" height=200 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
+</div>
+
+<br>
   
 ## 📞 Contatos
 <a href="mailto: tsb.thiagobatista@gmail.com" target="_blank">

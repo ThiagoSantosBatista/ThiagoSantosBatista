@@ -26,32 +26,7 @@ Possuo conhecimentos em:
 
 <br><br>
 
-## 🆙Projetos Pessoais e Desafios
-<table height= "450" align="right">
-   <thead>
-      <tr>
-         <th>Desafios Realizados</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>
-           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
-         </td>
-      </tr>
-        <tr>
-         <td>
-           <a href="https://github.com/ThiagoSantosBatista/Frontend-Mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Frontend-Mentor&theme=github_dark"></a>
-         </td>
-      </tr>
-        <tr>
-         <td>
-           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
+## 🆙Projetos Pessoais
 <table height= "450">
    <thead>
       <tr>
@@ -87,6 +62,36 @@ Possuo conhecimentos em:
       </tr>
    </tbody>
 </table>
+
+<br><br>
+
+## 🆙Desafios Realizados
+<table height= "450">
+   <thead>
+      <tr>
+         <th>Desafios Realizados</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
+         </td>
+      </tr>
+        <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/Frontend-Mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Frontend-Mentor&theme=github_dark"></a>
+         </td>
+      </tr>
+        <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+
 
 <br><br>
 

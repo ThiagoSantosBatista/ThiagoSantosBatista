@@ -27,8 +27,7 @@ Possuo conhecimentos em:
 <br><br>
 
 ## 🆙Projetos Pessoais e Desafios
-
-<table height= "450" align=left>
+<table height= "450" align="right">
    <thead>
       <tr>
          <th>Desafios Realizados</th>

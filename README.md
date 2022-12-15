@@ -75,17 +75,17 @@ Possuo conhecimentos em:
    <tbody>
       <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
          </td>
       </tr>
-        <tr>
+      <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/Frontend-Mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Frontend-Mentor&theme=github_dark"></a>
          </td>
-      </tr>
-        <tr>
+      </tr>   
+      <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
          </td>
       </tr>
    </tbody>

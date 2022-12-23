@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/followers/ThiagoSantosBatista?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/ThiagoSantosBatista?logo=github&style=for-the-badge) ![visitor badge](https://vbr.wocr.tk/badge?style=for-the-badge&logo=github&page_id=thiagosantosbatista.visitorbadge')
+![](https://img.shields.io/github/followers/ThiagoSantosBatista?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/ThiagoSantosBatista?logo=github&style=for-the-badge)
 
 ![](ThiagoBatista.gif)
 
@@ -13,6 +13,7 @@ Possuo conhecimentos em:
 - **CSS**,
 - **JavaScript**,
 - **ReactJS**,
+- **TypeScript**,
 - **SASS/SCSS**,
 - **GIT**,
 - **GitHub**,
@@ -98,8 +99,10 @@ Possuo conhecimentos em:
 ## 📊Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantosBatista&title_color=FF6700&bg_color=000&text_color=fff)
 
+<br>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,sass,vscode,git,github,figma,vite" />
+
+<img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=styledcomponents" /> <img src="https://skillicons.dev/icons?i=sass" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://skillicons.dev/icons?i=vite" />
 
 
 <br>

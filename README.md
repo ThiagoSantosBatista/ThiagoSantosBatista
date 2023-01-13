@@ -28,7 +28,7 @@ Possuo conhecimentos em:
 <br><br>
 
 ## 🆙Projetos Pessoais
-<table height= "450">
+<table height= "500">
    <thead>
       <tr>
          <th>Projetos Pessoais</th>
@@ -37,28 +37,28 @@ Possuo conhecimentos em:
    <tbody>
       <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/Pets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Pets&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/Pets"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Pets&theme=github_dark"></a>
          </td>
       </tr>
         <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/listasDeTarefas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=listasDeTarefas&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/listasDeTarefas"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=listasDeTarefas&theme=github_dark"></a>
          </td>
       </tr>
         <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/IceCream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=IceCream&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/IceCream"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=IceCream&theme=github_dark"></a>
          </td>
       </tr>
         <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/deliveryLandingPage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=deliveryLandingPage&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/deliveryLandingPage"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=deliveryLandingPage&theme=github_dark"></a>
          </td>
       </tr>
       </tr>
         <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/calculadora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=calculadora&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/calculadora"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=calculadora&theme=github_dark"></a>
          </td>
       </tr>
    </tbody>
@@ -67,7 +67,7 @@ Possuo conhecimentos em:
 <br><br>
 
 ## 🆙Desafios Realizados
-<table height= "450">
+<table height= "500">
    <thead>
       <tr>
          <th>Desafios Realizados</th>
@@ -76,17 +76,17 @@ Possuo conhecimentos em:
    <tbody>
       <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/codelandia"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=codelandia&theme=github_dark"></a>
          </td>
       </tr>
       <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/Frontend-Mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Frontend-Mentor&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/Frontend-Mentor"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Frontend-Mentor&theme=github_dark"></a>
          </td>
       </tr>   
       <tr>
          <td>
-           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
+           <a href="https://github.com/ThiagoSantosBatista/DevChallenge"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=DevChallenge&theme=github_dark"></a>
          </td>
       </tr>
    </tbody>
@@ -97,7 +97,7 @@ Possuo conhecimentos em:
 <br><br>
 
 ## 📊Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantosBatista&title_color=FF6700&bg_color=000&text_color=fff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiagoSantosBatista&title_color=FF6700&bg_color=000&text_color=fff)
 
 <br>
 

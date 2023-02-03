@@ -40,23 +40,28 @@ Possuo conhecimentos em:
            <a href="https://github.com/ThiagoSantosBatista/Pets"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Pets&theme=github_dark"></a>
          </td>
       </tr>
-        <tr>
+      <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/listasDeTarefas"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=listasDeTarefas&theme=github_dark"></a>
          </td>
       </tr>
-        <tr>
+      <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/previsaoDoTempo"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=previsaoDoTempo&theme=github_dark"></a>
+         </td>
+      </tr>
+      <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/IceCream"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=IceCream&theme=github_dark"></a>
          </td>
       </tr>
-        <tr>
+      <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/deliveryLandingPage"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=deliveryLandingPage&theme=github_dark"></a>
          </td>
       </tr>
       </tr>
-        <tr>
+      <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/calculadora"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=calculadora&theme=github_dark"></a>
          </td>

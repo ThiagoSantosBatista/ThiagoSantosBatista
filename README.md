@@ -45,6 +45,11 @@ Possuo conhecimentos em:
            <a href="https://github.com/ThiagoSantosBatista/listasDeTarefas"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=listasDeTarefas&theme=github_dark"></a>
          </td>
       </tr>
+     <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/telaLoginCadastro"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=telaLoginCadastro&theme=github_dark"></a>
+         </td>
+      </tr>
       <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/previsaoDoTempo"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=previsaoDoTempo&theme=github_dark"></a>

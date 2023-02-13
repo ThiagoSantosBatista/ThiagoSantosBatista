@@ -40,6 +40,11 @@ Possuo conhecimentos em:
            <a href="https://github.com/ThiagoSantosBatista/Pets"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Pets&theme=github_dark"></a>
          </td>
       </tr>
+     <tr>
+         <td>
+           <a href="https://github.com/ThiagoSantosBatista/Music"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=Music&theme=github_dark"></a>
+         </td>
+      </tr>
       <tr>
          <td>
            <a href="https://github.com/ThiagoSantosBatista/listasDeTarefas"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoSantosBatista&repo=listasDeTarefas&theme=github_dark"></a>

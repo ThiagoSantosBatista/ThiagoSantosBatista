@@ -1,31 +1,26 @@
-![](https://img.shields.io/github/followers/ThiagoSantosBatista?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/ThiagoSantosBatista?logo=github&style=for-the-badge)
-
 ![](ThiagoBatista.gif)
 
+<p>Olá,</p>
 <p>
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, meu nome é Thiago, tenho 18 anos e estou em busca da primeira oportunidade profissional atuando como desenvolvedor Front-End. Após o término do ensino médio em 2021, eu entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End. Desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
+Meu nome é Thiago, tenho 18 anos, sou Desenvolvedor Front-End Júnior e estou em busca da primeira oportunidade profissional. Após terminar o ensino médio em 2021, eu entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End, desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
+
+Possuo conhecimentos em: HTML, CSS,  JavaScript, SASS/SCSS, GIT,  GitHub, Figma, consumo de API e estou estudando atualmente: TypeScript e ReactJS. 
+
+Portfólio Online:
+Em construção.
+
+Meu LinkedIn: 
+https://www.linkedin.com/in/thiago-santos-batista/
+
+Meu Email: 
+tsb.thiagobatista@gmail.com
 </p>
 
-<img width="350" align="right" src="computer-illustration.png"/>
+<br>
 
-Possuo conhecimentos em:
-- **HTML**,
-- **CSS**,
-- **JavaScript**,
-- **ReactJS**,
-- **TypeScript**,
-- **SASS/SCSS**,
-- **GIT**,
-- **GitHub**,
-- **Figma**; 
-<a href="mailto: tsb.thiagobatista@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- <a href="https://www.linkedin.com/in/thiago-santos-batista/" target="_blank">
-  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=styledcomponents" /> <img src="https://skillicons.dev/icons?i=sass" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://skillicons.dev/icons?i=vite" />
 
-<br><br>
+<br>
 
 ## 🆙Projetos Pessoais
 <table height= "500">
@@ -117,7 +112,6 @@ Possuo conhecimentos em:
 <br>
 
 
-<img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=styledcomponents" /> <img src="https://skillicons.dev/icons?i=sass" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://skillicons.dev/icons?i=vite" />
 
 
 <br>

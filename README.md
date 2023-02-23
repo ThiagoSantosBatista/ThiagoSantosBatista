@@ -7,7 +7,7 @@ Meu nome é Thiago, tenho 18 anos, sou Desenvolvedor Front-End Júnior e estou e
 Possuo conhecimentos em: HTML, CSS,  JavaScript, SASS/SCSS, GIT,  GitHub, Figma, consumo de API e estou estudando atualmente: TypeScript e ReactJS. 
 
 Portfólio Online:
-Em construção.
+https://thiagobatista.netlify.app/
 
 Meu LinkedIn: 
 https://www.linkedin.com/in/thiago-santos-batista/

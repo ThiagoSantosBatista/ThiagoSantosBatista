@@ -2,7 +2,7 @@
 
 <p>Olá,</p>
 <p>
-Meu nome é Thiago, tenho 18 anos, sou Desenvolvedor Front-End Júnior e estou em busca da primeira oportunidade profissional. Após terminar o ensino médio em 2021, eu entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End, desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
+Meu nome é Thiago, tenho 19 anos, sou Desenvolvedor Front-End Júnior e estou em busca da primeira oportunidade profissional. Após terminar o ensino médio em 2021, eu entrei na faculdade de Análise e Desenvolvimento de Sistemas e iniciei meus estudos em desenvolvimento web focado na parte do Front-End, desde então em aprendizado constante, adquirindo e aprimorando conhecimentos.
 
 Possuo conhecimentos em: HTML, CSS,  JavaScript, SASS/SCSS, GIT,  GitHub, Figma, consumo de API e estou estudando atualmente: TypeScript e ReactJS. 
 
